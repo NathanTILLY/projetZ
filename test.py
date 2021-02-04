@@ -1,4 +1,4 @@
-fichier = open("data.txt", "r")
+fichier = open("test.txt", "r")
 
 
 lignes = fichier.readlines()
